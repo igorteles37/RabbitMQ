@@ -1,0 +1,2 @@
+Subir: docker-compose up -d
+Subir: docker-compose down
